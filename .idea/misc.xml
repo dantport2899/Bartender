@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender/app/src/main/res/layout/activity_inicio.xml" value="0.25" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender3.0/Bartender3.0/app/src/main/res/layout/activity_by_name.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender3.0/Bartender3.0/app/src/main/res/layout/activity_forgotpass.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender3.0/Bartender3.0/app/src/main/res/layout/activity_inicio.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender3.0/Bartender3.0/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender3.0/Bartender3.0/app/src/main/res/layout/activity_registro.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender3.0/Bartender3.0/app/src/main/res/layout/activity_usuariodatos.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_bills.xml" value="0.33" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_by_random.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_inicio.xml" value="0.33" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_orden.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_recibo_propina.xml" value="0.33" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_reciboview.xml" value="0.25" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_registro.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/activity_usuariodatos.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/billlist.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/bills.xml" value="0.33" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/filasdecocteles.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/fragment_bills.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/fragment_descripcion_bebidas.xml" value="0.25" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/fragment_descripcion_by_ingredient.xml" value="0.22" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/fragment_descripcion_by_random.xml" value="0.2" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/fragment_search_by_name.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/fragment_search_by_random.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/home.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/menu_items.xml" value="0.33" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/layout/recibo_cardview.xml" value="0.209375" />
+        <entry key="..\:/Users/dantport2899/AndroidStudioProjects/Bartender8.6/app/src/main/res/menu/navmenu.xml" value="0.209375" />
+        <entry key="..\:/Users/maual/Desktop/Bartender/app/src/main/res/layout/activity_byname.xml" value="0.21" />
+        <entry key="..\:/Users/maual/Desktop/Bartender/app/src/main/res/layout/activity_cuenta.xml" value="0.21" />
+        <entry key="..\:/Users/maual/Desktop/Bartender/app/src/main/res/layout/activity_inicio.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/maual/Desktop/Bartender/app/src/main/res/layout/activity_random_cocktail.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender/app/src/main/res/layout/bynamedrinks.xml" value="0.25" />
+        <entry key="..\:/Users/maual/Desktop/Bartender/app/src/main/res/layout/item_drinks.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/activity_by_name.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/activity_byname.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/activity_cuenta.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/activity_inicio.xml" value="0.22" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/activity_random_cocktail.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/filasdecocteles.xml" value="0.33" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/fragment_descripcion_bebidas.xml" value="0.1" />
+        <entry key="..\:/Users/maual/Desktop/Bartender2.0/app/src/main/res/layout/fragment_search_by_name.xml" value="0.22" />
+        <entry key="..\:/Users/maual/Desktop/Bartender3.5/app/src/main/res/layout/activity_inicio.xml" value="0.33" />
+        <entry key="..\:/Users/maual/Desktop/Bartender3.5/app/src/main/res/layout/fragment_descripcion_bebidas.xml" value="0.33" />
+        <entry key="..\:/Users/maual/Desktop/Bartender3.5/app/src/main/res/layout/fragment_search_by_name.xml" value="0.25" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/activity_by_ingredient.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/activity_by_name.xml" value="0.25" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/activity_forgotpass.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/activity_inicio.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/activity_main.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/activity_registro.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/activity_usuariodatos.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/filasdecocteles.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/fragment_descripcion_bebidas.xml" value="0.33" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/fragment_descripcion_by_ingredient.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/fragment_search_by_ingredient.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender4.0/app/src/main/res/layout/fragment_search_by_name.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/activity_by_ingredient.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/activity_by_name.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/activity_by_random.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/activity_inicio.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/fragment_descripcion_bebidas.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/fragment_descripcion_by_ingredient.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/fragment_descripcion_by_random.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/fragment_search_by_ingredient.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/fragment_search_by_name.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender5.0/app/src/main/res/layout/fragment_search_by_random.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender6.0/app/src/main/res/layout/activity_inicio.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender6.0/app/src/main/res/layout/activity_main.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender6.0/app/src/main/res/layout/activity_orden.xml" value="0.2" />
+        <entry key="..\:/Users/maual/Desktop/Bartender6.0/app/src/main/res/layout/filasdecocteles.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender6.0/app/src/main/res/layout/fragment_descripcion_by_ingredient.xml" value="0.33" />
+        <entry key="..\:/Users/maual/Desktop/Bartender6.0/app/src/main/res/layout/fragment_search_by_ingredient.xml" value="0.21" />
+        <entry key="..\:/Users/maual/Desktop/Bartender6.0/app/src/main/res/layout/menu_items.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender7.0/app/src/main/res/layout/activity_by_name.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender7.0/app/src/main/res/layout/activity_inicio.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender7.0/app/src/main/res/layout/activity_orden.xml" value="0.33" />
+        <entry key="..\:/Users/maual/Desktop/Bartender7.0/app/src/main/res/layout/activity_recibo_propina.xml" value="0.25" />
+        <entry key="..\:/Users/maual/Desktop/Bartender7.0/app/src/main/res/layout/menu_items.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender7.0/app/src/main/res/layout/recibo_cardview.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/maual/Desktop/Bartender8.0/app/src/main/res/layout/filasdecocteles.xml" value="0.19375" />
+        <entry key="..\:/Users/maual/Desktop/Bartender8.0/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
