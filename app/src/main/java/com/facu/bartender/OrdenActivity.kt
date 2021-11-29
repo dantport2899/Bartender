@@ -121,9 +121,9 @@ class OrdenActivity : AppCompatActivity() {
         if(id == null) return
 
         val builder = AlertDialog.Builder(this)
-        builder.setMessage("Estas seguro de borrar el coctel del menu?")
+        builder.setMessage("Do you want to delete the coctel from the menu?")
         builder.setCancelable(true)
-        builder.setPositiveButton("Si"){dialog,_->
+        builder.setPositiveButton("Yes"){dialog,_->
             sqLiteHelper.deleteDrinkByID(id)
             getDrinks()
             dialog.dismiss()

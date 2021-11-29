@@ -40,8 +40,8 @@ class forgotpass : AppCompatActivity() {
     {
         val builder = AlertDialog.Builder(this)
         builder.setTitle("Error")
-        builder.setMessage("Se he producido un error al restablecer contrasena")
-        builder.setPositiveButton("Aceptar", null)
+        builder.setMessage("Error with restore password")
+        builder.setPositiveButton("OK", null)
         val dialog: AlertDialog = builder.create()
         dialog.show()
     }
@@ -60,14 +60,14 @@ class forgotpass : AppCompatActivity() {
         auth.sendPasswordResetEmail(email).addOnCompleteListener {
             if (it.isSuccessful) {
 
-               Toast.makeText(this,"Correo Enviado", Toast.LENGTH_SHORT).show()
+               Toast.makeText(this,"Email Send", Toast.LENGTH_SHORT).show()
 
                 val intent = Intent(this,MainActivity::class.java)
                 startActivity(intent)
                 finish()
 
             } else {
-                Toast.makeText(this, "El correo fue invalido", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Invalid Email", Toast.LENGTH_SHORT).show()
             }
         }
 

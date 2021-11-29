@@ -24,7 +24,7 @@ class registro : AppCompatActivity() {
         //autenticacion con firebase
         val analytics: FirebaseAnalytics = FirebaseAnalytics.getInstance(this)
         val bundle = Bundle()
-        bundle.putString("message", "Integracion de Firebase completa")
+        bundle.putString("message", "Integration to Firebase complete")
         analytics.logEvent("InitScreen", bundle)
 
         val registro=findViewById<Button>(R.id.logout)
@@ -67,8 +67,8 @@ class registro : AppCompatActivity() {
     {
         val builder = AlertDialog.Builder(this)
         builder.setTitle("Error")
-        builder.setMessage("Se ha producido un error de registro al usuario")
-        builder.setPositiveButton("Aceptar", null)
+        builder.setMessage("Error in user register")
+        builder.setPositiveButton("Ok", null)
         val dialog: AlertDialog = builder.create()
         dialog.show()
     }

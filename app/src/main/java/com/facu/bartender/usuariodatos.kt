@@ -97,7 +97,7 @@ class usuariodatos : AppCompatActivity() {
         val builder = AlertDialog.Builder(this)
         builder.setTitle("Error")
         builder.setMessage("Error with the update")
-        builder.setPositiveButton("Aceptar", null)
+        builder.setPositiveButton("Ok", null)
         val dialog: AlertDialog = builder.create()
         dialog.show()
     }
