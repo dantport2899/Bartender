@@ -141,6 +141,7 @@ class OrdenActivity : AppCompatActivity() {
         val stdlist = sqLiteHelper.getAllDrinks()
         Log.e("ALEX","$stdlist")
         adapter?.addItems(stdlist)
+
     }
 
     private fun updateDrink(){
